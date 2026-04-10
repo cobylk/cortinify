@@ -4,6 +4,13 @@
   "preview": "preview.png",
   "main": "dist/cortinify.js",
   "readme": "README.md",
+  "branch": "main",
+  "authors": [
+    {
+      "name": "cobylk",
+      "url": "https://github.com/cobylk"
+    }
+  ],
   "tags": [
     "tango",
     "dj",
