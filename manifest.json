@@ -1,0 +1,13 @@
+{
+  "name": "Cortinify",
+  "description": "Spicetify extension for tango DJs with cortina fade control, a persistent control panel, and turntable-inspired now-playing UI.",
+  "preview": "preview.png",
+  "main": "dist/cortinify.js",
+  "readme": "README.md",
+  "tags": [
+    "tango",
+    "dj",
+    "utility",
+    "player"
+  ]
+}
